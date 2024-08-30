@@ -1,0 +1,15 @@
+C:\Users\andre\OneDrive\Desktop\Doane Fall 24\Back End\CMP-311\Calculator 2 MVC\bin\Debug\net6.0\Calculator 2 MVC.exe
+C:\Users\andre\OneDrive\Desktop\Doane Fall 24\Back End\CMP-311\Calculator 2 MVC\bin\Debug\net6.0\Calculator 2 MVC.deps.json
+C:\Users\andre\OneDrive\Desktop\Doane Fall 24\Back End\CMP-311\Calculator 2 MVC\bin\Debug\net6.0\Calculator 2 MVC.runtimeconfig.json
+C:\Users\andre\OneDrive\Desktop\Doane Fall 24\Back End\CMP-311\Calculator 2 MVC\bin\Debug\net6.0\Calculator 2 MVC.dll
+C:\Users\andre\OneDrive\Desktop\Doane Fall 24\Back End\CMP-311\Calculator 2 MVC\bin\Debug\net6.0\Calculator 2 MVC.pdb
+C:\Users\andre\OneDrive\Desktop\Doane Fall 24\Back End\CMP-311\Calculator 2 MVC\obj\Debug\net6.0\Calculator 2 MVC.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Desktop\Doane Fall 24\Back End\CMP-311\Calculator 2 MVC\obj\Debug\net6.0\Calculator 2 MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Desktop\Doane Fall 24\Back End\CMP-311\Calculator 2 MVC\obj\Debug\net6.0\Calculator 2 MVC.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Desktop\Doane Fall 24\Back End\CMP-311\Calculator 2 MVC\obj\Debug\net6.0\Calculator 2 MVC.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Desktop\Doane Fall 24\Back End\CMP-311\Calculator 2 MVC\obj\Debug\net6.0\Calculator 2 MVC.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Desktop\Doane Fall 24\Back End\CMP-311\Calculator 2 MVC\obj\Debug\net6.0\Calculator 2 MVC.dll
+C:\Users\andre\OneDrive\Desktop\Doane Fall 24\Back End\CMP-311\Calculator 2 MVC\obj\Debug\net6.0\refint\Calculator 2 MVC.dll
+C:\Users\andre\OneDrive\Desktop\Doane Fall 24\Back End\CMP-311\Calculator 2 MVC\obj\Debug\net6.0\Calculator 2 MVC.pdb
+C:\Users\andre\OneDrive\Desktop\Doane Fall 24\Back End\CMP-311\Calculator 2 MVC\obj\Debug\net6.0\Calculator 2 MVC.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Desktop\Doane Fall 24\Back End\CMP-311\Calculator 2 MVC\obj\Debug\net6.0\ref\Calculator 2 MVC.dll
