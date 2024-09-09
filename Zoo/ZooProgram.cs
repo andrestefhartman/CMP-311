@@ -4,14 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ClassRoster2
+namespace Zoo
 {
-    class ClassRoster2Program
+    class ZooProgram
     {
         static void Main(string[] args)
         {
-            ClassRoster2Controller controller = new ClassRoster2Controller();
-        }//End of main program
+            ZooController controller = new ZooController();
+        }
     }
-
 }
