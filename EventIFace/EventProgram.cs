@@ -7,18 +7,21 @@ namespace EventIFace
     {
         void PrintCost();
         void PrintCostCode(string code);
+        double Cost();
     }
 
    public interface IConference
     {
         void PrintCost();
         void PrintCostCode(string code);
+        double Cost();
     }
 
     public interface ICharity
     {
         void PrintCost();
         void PrintCostCode(string code);
+        double Cost();
     }
 
     public class EventInfo // class containing event info
@@ -93,14 +96,8 @@ namespace EventIFace
             code = code.ToLower();
             double costPerHead = 12.50;
             thisEvent.Cost = costPerHead * thisEvent.Attendees;
-            if (code == "d")
-            {
-                thisEvent.Cost *= 0.9;
-            }
-            else if (code == "l") 
-            {
-                thisEvent.Cost *= 1.1;
-            }
+
+            thisEvent.Cost = CodeCost(code);
 
             Console.WriteLine($"Cost with code: $ {thisEvent.Cost}");
 
@@ -120,14 +117,8 @@ namespace EventIFace
             code = code.ToLower();
             double costPerHead = 20.75;
             thisEvent.Cost = costPerHead * thisEvent.Attendees;
-            if (code == "d")
-            {
-                thisEvent.Cost *= 0.9;
-            }
-            else if (code == "l")
-            {
-                thisEvent.Cost *= 1.1;
-            }
+
+            thisEvent.Cost = CodeCost(code);
 
             Console.WriteLine($"Cost with code: $ {thisEvent.Cost}");
         }
@@ -145,16 +136,25 @@ namespace EventIFace
             code = code.ToLower();
             double costPerHead = 16.0;
             thisEvent.Cost = costPerHead * thisEvent.Attendees;
-            if (code == "d")
-            {
-                thisEvent.Cost *= 0.9;
-            }
-            else if (code == "l")
-            {
-                thisEvent.Cost *= 1.1;
-            }
+
+            thisEvent.Cost = CodeCost(code);
 
             Console.WriteLine($"Cost with code: $ {thisEvent.Cost}");
+        }
+
+        double IBirthday.Cost()
+        {
+            return thisEvent.Cost;
+        }
+
+        double ICharity.Cost()
+        {
+            return thisEvent.Cost;
+        }
+
+        double IConference.Cost()
+        {
+            return thisEvent.Cost;
         }
 
         public override string ToString()
@@ -162,7 +162,24 @@ namespace EventIFace
             return thisEvent.ToString();
         }
 
-        
+        private double CodeCost(string code)
+        {
+            switch (code)
+            {
+                case "d":
+                    return thisEvent.Cost * 0.9;
+                    
+                case "l":
+                    return thisEvent.Cost * 1.1;
+
+                case "e":
+                    return thisEvent.Cost * 0.75;
+                case "f":
+                    return 0;
+                default:
+                    return thisEvent.Cost;
+            }
+        }
 
     }
 
@@ -177,6 +194,7 @@ namespace EventIFace
             Console.WriteLine("Birthday");
             birthdayEvent.PrintCost();
             birthdayEvent.PrintCostCode("D");
+            
 
             Console.WriteLine("\nConference");
             conferenceEvent.PrintCost();
