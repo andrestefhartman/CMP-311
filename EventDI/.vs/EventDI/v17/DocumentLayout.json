@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\OneDrive\\Desktop\\Doane Fall 24\\Back End\\CMP-311\\EventDI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{496F46B3-BC07-4D1A-95FF-FFD7F14FD6C6}|EventDI.csproj|c:\\users\\andre\\onedrive\\desktop\\doane fall 24\\back end\\cmp-311\\eventdi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{496F46B3-BC07-4D1A-95FF-FFD7F14FD6C6}|EventDI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{496F46B3-BC07-4D1A-95FF-FFD7F14FD6C6}|EventDI.csproj|c:\\users\\andre\\onedrive\\desktop\\doane fall 24\\back end\\cmp-311\\eventdi\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{496F46B3-BC07-4D1A-95FF-FFD7F14FD6C6}|EventDI.csproj|solutionrelative:productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{496F46B3-BC07-4D1A-95FF-FFD7F14FD6C6}|EventDI.csproj|c:\\users\\andre\\onedrive\\desktop\\doane fall 24\\back end\\cmp-311\\eventdi\\charity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{496F46B3-BC07-4D1A-95FF-FFD7F14FD6C6}|EventDI.csproj|solutionrelative:charity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{496F46B3-BC07-4D1A-95FF-FFD7F14FD6C6}|EventDI.csproj|c:\\users\\andre\\onedrive\\desktop\\doane fall 24\\back end\\cmp-311\\eventdi\\conference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{496F46B3-BC07-4D1A-95FF-FFD7F14FD6C6}|EventDI.csproj|solutionrelative:conference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{496F46B3-BC07-4D1A-95FF-FFD7F14FD6C6}|EventDI.csproj|c:\\users\\andre\\onedrive\\desktop\\doane fall 24\\back end\\cmp-311\\eventdi\\birthday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{496F46B3-BC07-4D1A-95FF-FFD7F14FD6C6}|EventDI.csproj|solutionrelative:birthday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{496F46B3-BC07-4D1A-95FF-FFD7F14FD6C6}|EventDI.csproj|c:\\users\\andre\\onedrive\\desktop\\doane fall 24\\back end\\cmp-311\\eventdi\\eventinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{496F46B3-BC07-4D1A-95FF-FFD7F14FD6C6}|EventDI.csproj|solutionrelative:eventinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Doane Fall 24\\Back End\\CMP-311\\EventDI\\ProductService.cs",
+              "RelativeDocumentMoniker": "ProductService.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Doane Fall 24\\Back End\\CMP-311\\EventDI\\ProductService.cs",
+              "RelativeToolTip": "ProductService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T03:05:59.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Charity.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Doane Fall 24\\Back End\\CMP-311\\EventDI\\Charity.cs",
+              "RelativeDocumentMoniker": "Charity.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Doane Fall 24\\Back End\\CMP-311\\EventDI\\Charity.cs",
+              "RelativeToolTip": "Charity.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T03:56:13.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Conference.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Doane Fall 24\\Back End\\CMP-311\\EventDI\\Conference.cs",
+              "RelativeDocumentMoniker": "Conference.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Doane Fall 24\\Back End\\CMP-311\\EventDI\\Conference.cs",
+              "RelativeToolTip": "Conference.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T02:34:33.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Birthday.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Doane Fall 24\\Back End\\CMP-311\\EventDI\\Birthday.cs",
+              "RelativeDocumentMoniker": "Birthday.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Doane Fall 24\\Back End\\CMP-311\\EventDI\\Birthday.cs",
+              "RelativeToolTip": "Birthday.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T02:32:37.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EventInfo.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Doane Fall 24\\Back End\\CMP-311\\EventDI\\EventInfo.cs",
+              "RelativeDocumentMoniker": "EventInfo.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Doane Fall 24\\Back End\\CMP-311\\EventDI\\EventInfo.cs",
+              "RelativeToolTip": "EventInfo.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowDwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T02:32:27.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Doane Fall 24\\Back End\\CMP-311\\EventDI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Doane Fall 24\\Back End\\CMP-311\\EventDI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T02:26:22.681Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
