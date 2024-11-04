@@ -1,5 +1,5 @@
 {
-  "name": "express-demo",
+  "caliber": "express-demo",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
